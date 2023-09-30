@@ -1,2 +1,4 @@
 # PersianTextConvert
-A C# Library for converting RTL Persian text into unicode
+A C# Library for converting RTL Persian text into unicode.
+Converted the code by [Amir Masoud Irani](https://amib.ir/weblog/%d9%86%d8%b1%d9%85%e2%80%8c%d8%a7%d9%81%d8%b2%d8%a7%d8%b1%d9%87%d8%a7%db%8c-%d8%b1%d8%a7%db%8c%da%af%d8%a7%d9%86/%d9%81%d8%a7%d8%b1%d8%b3%db%8c%e2%80%8c%d9%86%d9%88%db%8c%d8%b3-%db%8c%d9%88%d9%86%db%8c%da%a9%d8%af/) website (which is forked from [Omar84 repository](https://github.com/omar84/arabic_writer) from JavaScript to C#. Tested in Unity and works just fine. (For multi-line texts, use a TMPro Ui text, then reverse the whole string before assiging it to the Text component.)
+Converted the code by [Amir Masoud Irani]() website (which is forked from Omar84 repository) from JavaScript to C#. Tested in Unity and works just fine. (For multi-line texts, use a TMPro Ui text, then reverse the whole string before assiging it to the Text component.)
